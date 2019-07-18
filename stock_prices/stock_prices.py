@@ -2,6 +2,7 @@
 
 import argparse
 
+
 def find_max_profit(prices):
     # this keeps track of how much we've spent
     purchase_price = prices[0]
